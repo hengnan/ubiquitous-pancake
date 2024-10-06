@@ -1,0 +1,13 @@
+.idea/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
